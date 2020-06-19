@@ -5,11 +5,11 @@
 
 # Download/Instalation :
 
-git clone https://github.com/Alilouvic/wordlist-generator.git
+- git clone https://github.com/Alilouvic/wordlist-generator.git
 
-cd wordlist-generator
+- cd wordlist-generator
 
-python pg.py
+- python pg.py
 
 # requirement :
 
