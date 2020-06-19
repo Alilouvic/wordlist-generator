@@ -5,8 +5,14 @@
 
 # instalation :
 
+- git clone https://github.com/Alilouvic/wordlist-generator.git
 
+- cd wordlist-generator
+
+- python pg.py
 
 # requirement :
 
-- python
+- python .
+
+# enjoy .
